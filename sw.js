@@ -2,8 +2,8 @@ const V = "playlist-v3"; // sube el número (v2, v3...) cada vez que cambies arc
 const CORE = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 // Escribe aquí TODOS tus mp3, igual que en index.html:
 const SONGS = [
-  // "musica/cancion1.mp3",
-  // "musica/cancion2.mp3",
+  "musica/amor1.mp3",
+  "musica/amor2.mp3",
 ];
 
 self.addEventListener("install", e => {
